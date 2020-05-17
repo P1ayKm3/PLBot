@@ -1,0 +1,12 @@
+{
+  "name": "PLbot",
+  "version": "0.1.0",
+  "description": "PLBot is a lie, P1ayKm3 is a lie, but he create the PLBot lie",
+  "main": "main.js",
+  "repository": "https://github.com/P1ayKm3/PLBot.git",
+  "author": "P1ayKm3 <fluffyl7chaine@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
